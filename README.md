@@ -2,6 +2,7 @@
 
 ## 알고리즘
 - [신고 결과 받기](https://velog.io/@jaegyeongkim/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%A0%EA%B3%A0-%EA%B2%B0%EA%B3%BC-%EB%B0%9B%EA%B8%B0)
+- [로또의 최고 순위와 최저 순위](https://velog.io/@jaegyeongkim/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84)
 
 ## JS
 - [array in array](https://velog.io/@jaegyeongkim/JS-array-in-array)
