@@ -17,6 +17,7 @@
 - [array in array](https://velog.io/@jaegyeongkim/JS-array-in-array)
 
 ## React
+- [명령형 프로그래밍, 선언형 프로그래밍](https://velog.io/@jaegyeongkim/%EB%AA%85%EB%A0%B9%ED%98%95-%EC%BD%94%EB%93%9C-%EC%84%A0%EC%96%B8%ED%98%95-%EC%BD%94%EB%93%9C)
 - [첫 마운트, 이후 마운트 구분](https://velog.io/@jaegyeongkim/%EC%B2%AB-%EB%A7%88%EC%9A%B4%ED%8A%B8-%EC%9D%B4%ED%9B%84-%EB%A7%88%EC%9A%B4%ED%8A%B8-%EA%B5%AC%EB%B6%84)
 - [textarea 높이 자동 조절](https://velog.io/@jaegyeongkim/textarea-%EB%86%92%EC%9D%B4-%EC%9E%90%EB%8F%99-%EC%A1%B0%EC%A0%88)
 - [Safari dialog 태그](https://velog.io/@jaegyeongkim/Safari-dialog-%ED%83%9C%EA%B7%B8-%EC%95%88-%EB%A8%B9%EB%8A%94%EB%8B%A4)
