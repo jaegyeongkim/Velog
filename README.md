@@ -1,6 +1,7 @@
 # Velog
 
 ## 알고리즘
+- [숫자 문자열과 영단어]()
 - [음양 더하기](https://velog.io/@jaegyeongkim/%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0)
 - [소수 만들기](https://velog.io/@jaegyeongkim/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%86%8C%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [폰켓몬](https://velog.io/@jaegyeongkim/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8F%B0%EC%BC%93%EB%AA%AC)
