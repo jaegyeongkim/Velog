@@ -1,6 +1,7 @@
 # Velog
 
 ## 알고리즘
+- [카펫](https://velog.io/@jaegyeongkim/%EC%B9%B4%ED%8E%AB)
 - [H-Index](https://velog.io/@jaegyeongkim/H-Index)
 - [위장](https://velog.io/@jaegyeongkim/%EC%9C%84%EC%9E%A5)
 - [신규 아이디 추천](https://velog.io/@jaegyeongkim/%EC%8B%A0%EA%B7%9C-%EC%95%84%EC%9D%B4%EB%94%94-%EC%B6%94%EC%B2%9C)
