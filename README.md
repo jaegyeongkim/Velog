@@ -25,7 +25,7 @@
 - [array in array](https://velog.io/@jaegyeongkim/JS-array-in-array)
 
 ## React
-- [styled components Cannot create 에러]https://velog.io/@jaegyeongkim/styled-components-Cannot-create-%EC%97%90%EB%9F%AC
+- [styled components Cannot create 에러](https://velog.io/@jaegyeongkim/styled-components-Cannot-create-%EC%97%90%EB%9F%AC)
 - [정규 표현식 모음](https://velog.io/@jaegyeongkim/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D-%EB%AA%A8%EC%9D%8C)
 - [text 한 줄 && 생략(...)](https://velog.io/@jaegyeongkim/Text-%ED%95%9C-%EC%A4%84-%EC%83%9D%EB%9E%B5)
 - [첫 마운트, 이후 마운트 구분](https://velog.io/@jaegyeongkim/%EC%B2%AB-%EB%A7%88%EC%9A%B4%ED%8A%B8-%EC%9D%B4%ED%9B%84-%EB%A7%88%EC%9A%B4%ED%8A%B8-%EA%B5%AC%EB%B6%84)
