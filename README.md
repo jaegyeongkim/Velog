@@ -1,6 +1,7 @@
 # Velog
 
 ## 알고리즘
+- [짝지어 제거하기](https://velog.io/@jaegyeongkim/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 - [피로도](https://velog.io/@jaegyeongkim/%ED%94%BC%EB%A1%9C%EB%8F%84)
 - [카펫](https://velog.io/@jaegyeongkim/%EC%B9%B4%ED%8E%AB)
 - [H-Index](https://velog.io/@jaegyeongkim/H-Index)
