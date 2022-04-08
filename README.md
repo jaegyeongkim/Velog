@@ -1,5 +1,10 @@
 # Velog
 
+## 알고리즘 참고
+- [순열 nPn](https://velog.io/@jaegyeongkim/%EC%88%9C%EC%97%B4-nPn)
+- [조합](https://velog.io/write?id=38f764b9-7b6d-40cf-b036-425b436ee5a5)
+- [dfs](https://velog.io/@jaegyeongkim/dfs)
+
 ## 알고리즘
 - [짝지어 제거하기](https://velog.io/@jaegyeongkim/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 - [피로도](https://velog.io/@jaegyeongkim/%ED%94%BC%EB%A1%9C%EB%8F%84)
