@@ -6,6 +6,7 @@
 - [dfs](https://velog.io/@jaegyeongkim/dfs)
 
 ## 알고리즘
+- [가장 큰 수](https://velog.io/@jaegyeongkim/%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98)
 - [괄호 회전하기](https://velog.io/@jaegyeongkim/%EA%B4%84%ED%98%B8-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 - [타겟 넘버](https://velog.io/@jaegyeongkim/%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)
 - [짝지어 제거하기](https://velog.io/@jaegyeongkim/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
