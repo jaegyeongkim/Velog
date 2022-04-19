@@ -4,9 +4,10 @@
 - [순열 nPn](https://velog.io/@jaegyeongkim/%EC%88%9C%EC%97%B4-nPn)
 - [조합](https://velog.io/write?id=38f764b9-7b6d-40cf-b036-425b436ee5a5)
 - [dfs](https://velog.io/@jaegyeongkim/dfs)
+- [소수 판별](https://velog.io/@jaegyeongkim/%EC%86%8C%EC%88%98-%ED%8C%90%EB%B3%84)
 
 ## 알고리즘
-- [소수 찾기]()
+- [소수 찾기](https://velog.io/@jaegyeongkim/%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0)
 - [가장 큰 수](https://velog.io/@jaegyeongkim/%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98)
 - [괄호 회전하기](https://velog.io/@jaegyeongkim/%EA%B4%84%ED%98%B8-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 - [타겟 넘버](https://velog.io/@jaegyeongkim/%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)
