@@ -3,5 +3,6 @@ const getGCD = (num1, num2) => (num2 > 0 ? getGCD(num2, num1 % num2) : num1);
 
 const getLCM = (num1, num2) => {
   const gcd = getGCD(num1, num2);
+
   return (num1 * num2) / gcd;
 };
