@@ -6,7 +6,7 @@ https://velog.io/@jaegyeongkim
 
 ## 알고리즘 참고
 
-- [최대공약수, 최소공배수]()
+- [최대공약수, 최소공배수](https://velog.io/@jaegyeongkim/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 - [순열 nPn](https://velog.io/@jaegyeongkim/%EC%88%9C%EC%97%B4-nPn)
 - [조합](https://velog.io/write?id=38f764b9-7b6d-40cf-b036-425b436ee5a5)
 - [dfs](https://velog.io/@jaegyeongkim/dfs)
